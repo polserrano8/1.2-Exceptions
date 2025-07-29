@@ -1,6 +1,8 @@
 package s1_2_Exceptions_Niv2_Ex1;
 
 
+import s1_2_Exceptions_Niv2_Ex1.model.Entrance;
+
 public class Main {
 
 	public static void main(String[] args) {
