@@ -16,7 +16,7 @@ The objective of these exercises is to learn and practice exception handling in 
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
- git clone  https://github.com/RamonLGDaw/S1T2_Exceptions.git
+ git clone  https://github.com/polserrano8/1.2-Exceptions
 
 2. **Open the project in IntelliJ IDEA**:
 - Launch IntelliJ IDEA.
